@@ -1,0 +1,5 @@
+Api Used: 
+json placeholders users
+
+for Robots:
+https://robohash.org/
