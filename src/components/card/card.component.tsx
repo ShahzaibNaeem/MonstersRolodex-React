@@ -1,6 +1,7 @@
 import './card.styles.css';
+import { Monsters } from '../../App';
 
-const Card =({ id, name, email } )=> {
+const Card =({ id, name, email }:Monsters )=> {
         return (
             <>
                 <div className="card-container">
